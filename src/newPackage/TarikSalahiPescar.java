@@ -18,6 +18,11 @@ public class TarikSalahiPescar {
 	public String getPescar() {
 		return pescar;
 	}
+
+
+	public String getMar() {
+		return mar;
+	}
 	
 	
 	
