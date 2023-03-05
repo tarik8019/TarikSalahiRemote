@@ -28,6 +28,12 @@ public class TarikSalahiPescar {
 	public int getNumeroDeVecesAlSemana() {
 		return numeroDeVecesAlSemana;
 	}
+
+
+	public void setPescar(String pescar) {
+		this.pescar = pescar;
+	}
+	
 	
 	
 	
