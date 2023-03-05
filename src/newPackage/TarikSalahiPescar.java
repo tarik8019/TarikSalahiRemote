@@ -23,6 +23,11 @@ public class TarikSalahiPescar {
 	public String getMar() {
 		return mar;
 	}
+
+
+	public int getNumeroDeVecesAlSemana() {
+		return numeroDeVecesAlSemana;
+	}
 	
 	
 	
