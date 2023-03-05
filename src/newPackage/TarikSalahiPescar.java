@@ -33,6 +33,11 @@ public class TarikSalahiPescar {
 	public void setPescar(String pescar) {
 		this.pescar = pescar;
 	}
+
+
+	public void setMar(String mar) {
+		this.mar = mar;
+	}
 	
 	
 	
