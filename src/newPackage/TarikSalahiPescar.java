@@ -38,6 +38,11 @@ public class TarikSalahiPescar {
 	public void setMar(String mar) {
 		this.mar = mar;
 	}
+
+
+	public void setNumeroDeVecesAlSemana(int numeroDeVecesAlSemana) {
+		this.numeroDeVecesAlSemana = numeroDeVecesAlSemana;
+	}
 	
 	
 	
