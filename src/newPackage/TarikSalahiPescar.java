@@ -13,6 +13,15 @@ public class TarikSalahiPescar {
 		this.mar = mar;
 		this.numeroDeVecesAlSemana = numeroDeVecesAlSemana;
 	}
+
+
+	public String getPescar() {
+		return pescar;
+	}
+	
+	
+	
+	
 	
 	
 	
