@@ -45,6 +45,13 @@ public class TarikSalahiPescar {
 	}
 	
 	
+	private void generarNombreHobby() {
+		for(int i=0;i<1000;i++) {
+			System.out.println(pescar);
+		}
+	}
+	
+	
 	
 	
 	
